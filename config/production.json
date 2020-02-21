@@ -1,4 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://Gabby:ybbaG@cluster0-iyyru.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "gabby"
+  
   }
